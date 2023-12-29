@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
 
 body {
-    /* border: 2px solid red; */
     padding: 0;
     margin: 0;
     height: 100vh;
@@ -88,3 +87,28 @@ button {
     border: 5px solid #3b81f6;
     border-radius: 10px;
   }
+
+  /* CITATION */
+  .citation {
+    height: 400px;
+    background: #e5e7eb;
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: lighter;
+    font-style: italic;
+  }
+
+  /* SIGN UP */
+.sign-up {
+    background: #3B81F6;
+    color: #f9faf8;
+}
+.button-two {
+    border-color: #f9faf8;
+}
+
+/* FOOTER */
+.footer {
+    background: #1F2937;
+    color: #e5e7eb;
+}
