@@ -36,3 +36,26 @@ a {
   font-size: 18px;
   color: #E5E7EB;
 }
+/* Description */
+.description {
+  display: flex;
+  gap: 100px;
+}
+.tilte-description {
+  font-size: 48px;
+  font-weight: bolder;
+  color: #F9FAF8;
+}
+.text-description {
+  font-size: 18px; 
+  color: #E5E7EB;
+}
+.button-description {
+  background: #3882F6;
+  border: 1px solid #3882F6;
+  border-radius: 4px;
+  font-size: 16px;
+  color: #F9FAF8;
+  font-weight: bold;
+  padding: 5px 24px;
+}
