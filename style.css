@@ -16,6 +16,7 @@ body {
 /* Navbar */
 .header {
   background: #1F2937;
+  padding: 0 15%;
 }
 .navbar {
   display: flex;
