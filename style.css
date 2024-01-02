@@ -41,7 +41,8 @@ a {
 /* Description */
 .description {
   display: flex;
-  /* gap: 100px; */
+  gap: 45px;
+  padding: 10% 0;
 }
 .tilte-description {
   font-size: 48px;
@@ -51,6 +52,7 @@ a {
 .text-description {
   font-size: 18px; 
   color: #E5E7EB;
+  margin-bottom: 16px;
 }
 .button-description {
   background: #3882F6;
