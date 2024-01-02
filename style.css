@@ -120,6 +120,8 @@ a {
   background: #3882F6;
   color: #F9FAF8;
   display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 .title-sign {
   font-weight: bolder;
