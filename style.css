@@ -124,7 +124,7 @@ a {
   align-items: center;
   margin: 5% 10%;
   padding: 3% 10%;
-
+  border-radius: 7px;
 }
 .title-sign {
   font-weight: bolder;
