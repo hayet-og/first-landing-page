@@ -101,6 +101,8 @@ a {
 /* Citation */
 .box-quote {
   background: #E5E7EB;
+  padding: 7% 15%;
+  display: flex;
 }
 .quote {
   font-size: 36px;
@@ -109,7 +111,6 @@ a {
   font-style: italic;
 }
 .author-quote {
-  text-align: right;
   font-size: 24px;
   font-weight: bold;
   color: #1F2937;
